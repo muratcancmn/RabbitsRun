@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class UserInterface : MonoBehaviour
 {
+    
     GameObject ScorePanel;
     private void Start()
     {
@@ -14,6 +15,7 @@ public class UserInterface : MonoBehaviour
     public void Play()
     {        
         SceneManager.LoadScene("GameScene");
+        
     }
     public void Restart()
     {

@@ -7,6 +7,7 @@ public class InstantiateOnRandomPoints : MonoBehaviour
     [SerializeField]
     private GameObject Clone;
     private Transform[] Points;
+    
     private void Start()
     {
         InvokeRepeating("InstantiateClone",0f,3f);

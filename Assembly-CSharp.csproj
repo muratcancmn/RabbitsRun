@@ -61,14 +61,14 @@
     <Compile Include="Assets\Rabbits\Demo\Scripts\AnimatorParamatersChange.cs" />
     <Compile Include="Assets\AurynSky\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
     <Compile Include="Assets\Scripts\RabbitTrigger.cs" />
+    <Compile Include="Assets\Scripts\PowerUpTrigger.cs" />
     <Compile Include="Assets\UIScript\UserInterface.cs" />
     <Compile Include="Assets\Scripts\Platform.cs" />
     <Compile Include="Assets\Scripts\CoinTrigger.cs" />
+    <Compile Include="Assets\Scripts\InstantiateOnRandomPoints.cs" />
     <Compile Include="Assets\Scripts\MainPlayerMove.cs" />
     <Compile Include="Assets\Scripts\Move.cs" />
     <Compile Include="Assets\Scripts\NewRoadTrigger.cs" />
-    <Compile Include="Assets\Scripts\PowerUpTrigger.cs" />
-    <Compile Include="Assets\Scripts\InstantiateOnRandomPoints.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\BrokenVector\LowPolyTreePack\README.txt" />
